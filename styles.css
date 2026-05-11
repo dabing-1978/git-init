@@ -105,8 +105,8 @@ body {
     flex-shrink: 0;
     border: none;
     border-radius: var(--radius-sm);
-    /*background: var(--primary2);*/
-    background: var(--primary2); /* 修改按钮颜色变量名 */
+    /*background: var(--primary2);*/ /* 修改按钮颜色变量名 */
+    background: hotpink; 
     color: white;
     cursor: pointer;
     display: flex;
